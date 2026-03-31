@@ -1,4 +1,4 @@
-# Iosevkatermslab WebFont 34.2.1
+# Iosevkatermslab WebFont 34.3.0
 
 ## How to use
 
